@@ -20,6 +20,8 @@ public class Lab2_Problem3_2
 		int guess;
 		boolean winner=false;
 		
+		// JA: You had to show the sum for the user to be able to give the answer. You mixed two different problems.
+		// JA: It had to show something like "What's the sum of 4 + 3 + 5?"
 		while(winner==false)
 		{
 			System.out.println("Guess the sum of three numbers 0-28");
