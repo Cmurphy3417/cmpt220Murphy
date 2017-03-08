@@ -1,4 +1,4 @@
-//Connor Murphy
+ 										   //Connor Murphy
 //2.7.17
 //Lab3_Problem6_3.java
 
